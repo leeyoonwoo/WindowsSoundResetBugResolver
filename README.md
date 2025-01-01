@@ -12,12 +12,20 @@
 
 ---
 
+## Download
+
+Click the link below to download the latest version:
+
+[Download WindowsSoundResetBugResolver.ps1](https://github.com/leeyoonwoo/WindowsSoundResetBugResolver/releases/download/v1.0.0/WindowsSoundResetBugResolver.ps1)
+
+---
+
 ## Installation and Setup
 
 1. **Download the Script**  
    Download the PowerShell Script File `WindowsSoundResetBugResolver.ps1`.
 
-2. **Run the Script**  
+3. **Run the Script**  
    Press `Win + R` to open the **Run** dialog and enter the following command:
   
    ```plaintext
@@ -28,13 +36,13 @@
    powershell -ExecutionPolicy Bypass -File "PATH_TO_DOWNLOADED_SCRIPT"
    ```
 
-3. **Follow Prompts**  
+4. **Follow Prompts**  
    The script will
    - Display a list of playback audio devices.
    - Allow you to select a default device.
    - Ask for a default volume level to set after waking from sleep.
      
-4. **Verify Scheduled Task**
+5. **Verify Scheduled Task**
    The script will create a Task Scheduler entry named `SetVolumeOnWake` to execute the script automatically after waking from sleep.
 
 ### Usage
