@@ -170,6 +170,9 @@ $TaskXML = @"
       <Enabled>true</Enabled>
       <Subscription>&lt;QueryList&gt;&lt;Query Id="0" Path="System"&gt;&lt;Select Path="System"&gt;*[System[Provider[@Name='Microsoft-Windows-Power-Troubleshooter'] and EventID=1]]&lt;/Select&gt;&lt;/Query&gt;&lt;/QueryList&gt;</Subscription>
     </EventTrigger>
+    <BootTrigger>
+      <Enabled>true</Enabled>
+    </BootTrigger>
   </Triggers>
   <Principals>
     <Principal id="Author">
