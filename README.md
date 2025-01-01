@@ -16,7 +16,7 @@
 
 Click the link below to download the latest version:
 
-[Download WindowsSoundResetBugResolver.ps1](https://github.com/leeyoonwoo/WindowsSoundResetBugResolver/releases/download/v1.0.0/WindowsSoundResetBugResolver.ps1)
+[Download WindowsSoundResetBugResolver.ps1 (v1.0.0)](https://github.com/leeyoonwoo/WindowsSoundResetBugResolver/releases/download/v1.0.0/WindowsSoundResetBugResolver.ps1)
 
 ---
 
