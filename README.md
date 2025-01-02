@@ -2,6 +2,8 @@
 
 `WindowsSoundResetBugResolver` is a PowerShell script designed to fix the issue where Windows resets the sound volume to 100 after waking from sleep or rebooting. This script automatically restores the volume of your selected playback device to a predefined level.
 
+### Reported Topic : [Windows gaming system external USB audio volume increases to 100-percent](https://support.microsoft.com/en-us/topic/windows-gaming-system-external-usb-audio-volume-increases-to-100-percent-18e7697c-52e0-4dc4-8721-a12ffc019258)
+
 ---
 
 ## Features
