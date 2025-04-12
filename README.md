@@ -1,3 +1,15 @@
+
+# 🛑 Project Archived
+
+The issue is reportedly resolved in the [KB5053598](https://support.microsoft.com/en-us/topic/march-11-2025-kb5053598-os-build-26100-3476-a248e951-daef-43ad-aa10-0b99f551cec2) update.
+
+If you've installed the script for this project, rerun it to perform the delete process.
+
+Then, make sure to install the latest Windows updates.
+
+---
+---
+
 # WindowsSoundResetBugResolver
 
 `WindowsSoundResetBugResolver` is a PowerShell script designed to fix the issue where Windows resets the sound volume to 100 after waking from sleep or rebooting. This script automatically restores the volume of your selected playback device to a predefined level.
